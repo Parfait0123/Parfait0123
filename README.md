@@ -1,16 +1,30 @@
 ## Hi there 👋 I'm Parfait BOTCHI
 
+<table>
+<tr>
+<td width="40%">
+  
 ![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png)
 
+</td>
+<td width="60%">
+
 ### 🎓 About Me
-I'm a student engineer specializing in **mathematical modeling** at UNSTIM (Université Nationale des Sciences, Technologies, Ingénierie et Mathématiques). Passionate about solving complex problems through computational mathematics and machine learning.
+I'm a student engineer specializing in **mathematical modeling** at UNSTIM.
 
 ### 💻 What I Do
-- 🔬 Mathematical modeling and simulation
-- 📊 Data analysis and scientific computing
+- 🔬 Mathematical modeling
+- 📊 Data analysis
 - 💻 Software development
 - 🤖 Computer vision with YOLO
-- 📱 Mobile development with Kotlin
+
+### 📫 Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parfaitbotchi1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parfait-botchi/)
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Technologies & Tools
 
