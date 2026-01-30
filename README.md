@@ -12,7 +12,7 @@ I'm a student engineer specializing in mathematical modeling at UNSTIM (Universi
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
