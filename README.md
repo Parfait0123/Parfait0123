@@ -1,18 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Parfait BOTCHI
 
 ![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png)
 
-<!--
-**Parfait0123/Parfait0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I'm a student engineer specializing in mathematical modeling at UNSTIM (Université Nationale des Sciences, Technologies, Ingénierie et Mathématiques).
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- Mathematical modeling and simulation
+- Data analysis and scientific computing
+- Software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Parfait0123&show_icons=true&theme=radical)
+
+### 📫 How to reach me
+- Email: [votre.email@example.com]
+- LinkedIn: [Votre profil LinkedIn]
+
+### 🌱 Currently Learning
+- Advanced numerical methods
+- Machine learning applications in mathematical modeling
+- Data science and visualization
+
+---
+💡 *"Mathematics is the language in which God has written the universe"* - Galileo Galilei
