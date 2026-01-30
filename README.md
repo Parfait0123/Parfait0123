@@ -41,12 +41,15 @@ I'm a student engineer specializing in **mathematical modeling** at UNSTIM (Univ
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parfait0123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parfait0123&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Parfait0123&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parfait0123&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Parfait0123&theme=radical)
+
 
 ### 🚀 Featured Projects
 
