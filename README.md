@@ -7,7 +7,7 @@
 <!-- ![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png) -->
 
 </td>
-<td width="60%">
+<td width="100%">
 
 ### 🎓 About Me
 I'm a student engineer specializing in **mathematical modeling** at UNSTIM.
