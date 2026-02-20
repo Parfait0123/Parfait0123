@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Parfait BOTCHI
 
 <table>
-<tr>
+<!-- <tr>
 <td width="0%"> <!-- Don't forget to change 0% to 40% if you want to show the cover column -->
   
 <!-- ![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png) -->
 
-</td>
-<td width="100%">
+<!-- </td> -->
+<!-- <td width="100%"> -->
 
 ### 🎓 About Me
 I'm a student engineer specializing in **mathematical modeling** at UNSTIM.
@@ -22,7 +22,7 @@ I'm a student engineer specializing in **mathematical modeling** at UNSTIM.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parfaitbotchi1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parfait-botchi/)
 
-</td>
+<!-- </td> -->
 </tr>
 </table>
 
