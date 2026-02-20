@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="0%"> <!-- Don't forget to change 0% to 40% if you want to show the cover column -->
   
 <!-- ![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png) -->
 
