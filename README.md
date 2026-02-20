@@ -4,7 +4,7 @@
 <tr>
 <td width="40%">
   
-![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png)
+<!-- ![cover](https://github.com/Parfait0123/Parfait0123/blob/main/image_circulaire_recadree.png) -->
 
 </td>
 <td width="60%">
